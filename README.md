@@ -113,4 +113,4 @@ The Graphic Design courses are highly rated amongst the others, in each of the f
 
 Though with the third highest average ratings, and having the most expensive courses, the Web Development courses are still in high demand.
  ## THE FINAL DASHBOARD :art:
-[embed]https://drive.google.com/drive/my-drive.pdf[/embed]
+[embed]https://drive.google.com/file/d/1rNgedzu6iQBkT-uSs5bRY4vSlG274vOP/view?usp=sharing.pdf[/embed]
