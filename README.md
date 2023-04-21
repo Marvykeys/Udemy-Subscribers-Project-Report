@@ -22,12 +22,12 @@ Now, you see below, all four CSVs are joined and the number of rows is now 3,681
 My first cleaning process was to check for duplicates and remove them. I did this by highlighting the whole data and then clicked on the remove duplicates icon.      
 ![image](https://user-images.githubusercontent.com/130637591/233659975-c0f0512b-6a71-4236-a45f-5e9840b2e812.png)
  ##
-The remove duplicates dialog box appears, then I selected all columns, ticked the box “My data has headers” because my data has got headers, then I clicked OK.
+The remove duplicates dialog box appears, then I selected all columns, ticked the box “My data has headers” because my data has got headers, then I clicked OK.            
 ![image](https://user-images.githubusercontent.com/130637591/233661790-81fb8fad-899b-4a94-9a9c-11f28c35424a.png)
  ##
-One duplicate row was found and removed. The previous total rows were 3681, but 3680 rows are now left.
+One duplicate row was found and removed. The previous total rows were 3681, but 3680 rows are now left.                                
 ![image](https://user-images.githubusercontent.com/130637591/233661962-20130b02-e366-4138-8949-cdb2ff6add32.png)
  ##
-My next cleaning process was to filter the data for blank rows and remove them. I used the shortcut Alt + A + T to add a filter, searched for blanks and then clicked OK. 
+My next cleaning process was to filter the data for blank rows and remove them. I used the shortcut Alt + A + T to add a filter, searched for blanks and then clicked OK.      
 ![image](https://user-images.githubusercontent.com/130637591/233662280-b1ba6d6a-ead8-4073-9847-eb25650d1615.png)
  ##
