@@ -19,4 +19,6 @@ The “Combine Files” box pops up, I was satisfied with the settings so I clic
  ##
 Now, you see below, all four CSVs are joined and the number of rows is now 3,681 rows loaded.                                                                     ![image](https://user-images.githubusercontent.com/130637591/232913848-073975b3-aad0-4bd3-86be-e05cdc9692b5.png)
  ## Data Cleaning 
- 
+My first cleaning process was to check for duplicates and remove them. I did this by highlighting the whole data and then clicked on the remove duplicates icon.
+![image](https://user-images.githubusercontent.com/130637591/233659975-c0f0512b-6a71-4236-a45f-5e9840b2e812.png)
+ ##
